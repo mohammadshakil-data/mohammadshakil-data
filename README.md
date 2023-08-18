@@ -1,6 +1,6 @@
 <div style="background-image: url('[https://github.com/mohammadshakil-data/Python_Games/blob/main/Githug_page.png]'); background-size: cover; padding: 100px;">
 
-  <img src="https://github.com/mohammadshakil-data/Python_Games/blob/main/Githug_page.png" alt="Image Description">
+  <img src="https://github.com/mohammadshakil-data/Python_Games/blob/main/Git-Datascience.jpg" alt="Image Description">
 
 
 ### **𝕳𝖎 𝖙𝖍𝖊𝖗𝖊!** 👋 𝕴'𝖒 𝕾𝖍𝖆𝖐𝖎𝖑
